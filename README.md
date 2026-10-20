@@ -1,5 +1,3 @@
-# Free Crypto Futures Research Scan
-Public Binance USDⓈ-M Futures data only. No API keys, no live orders.
 
 ## Setup from Android
 1. Create a **public** GitHub repository named `crypto-trigger-checker`.
